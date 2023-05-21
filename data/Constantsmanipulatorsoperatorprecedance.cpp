@@ -7,6 +7,8 @@ int main()
     // cout<<"The value of a was: "<<a<<endl;
     // a=45;
     // cout<<"The value of a is: "<<a<<endl;
+    
+    
     //************Constants in c++
     // const float b=30.11;
     // b=2.5;//Error here
